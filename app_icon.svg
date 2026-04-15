@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <!-- Blue flame gradients -->
+    <linearGradient id="flameOuter" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1a2a80"/>
+      <stop offset="50%" stop-color="#2050cc"/>
+      <stop offset="100%" stop-color="#4090ff" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="flameMid" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#3060dd"/>
+      <stop offset="60%" stop-color="#60b0ff"/>
+      <stop offset="100%" stop-color="#a0d8ff" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="flameCore" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#80c0ff"/>
+      <stop offset="100%" stop-color="#e8f4ff" stop-opacity="0.7"/>
+    </linearGradient>
+    <!-- Stone gradients -->
+    <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b0aaa0"/>
+      <stop offset="50%" stop-color="#8a8580"/>
+      <stop offset="100%" stop-color="#6a6560"/>
+    </linearGradient>
+    <linearGradient id="stoneLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c8c2b8"/>
+      <stop offset="100%" stop-color="#9a9590"/>
+    </linearGradient>
+    <!-- Filters -->
+    <filter id="blueGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="boltGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="smoke" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <!-- Dark background -->
+  <circle cx="128" cy="128" r="124" fill="#0c0a18"/>
+
+  <!-- Ambient blue glow behind flames -->
+  <ellipse cx="128" cy="85" rx="72" ry="55" fill="#1a3888" opacity="0.3" filter="url(#softGlow)"/>
+
+  <!-- Blue smoke wisps drifting up -->
+  <g filter="url(#smoke)" opacity="0.28">
+    <ellipse cx="108" cy="38" rx="22" ry="9" fill="#3570cc"/>
+    <ellipse cx="152" cy="30" rx="18" ry="7" fill="#4585dd"/>
+    <ellipse cx="126" cy="20" rx="24" ry="8" fill="#3060bb"/>
+    <ellipse cx="142" cy="46" rx="14" ry="6" fill="#5090ee"/>
+    <ellipse cx="94" cy="50" rx="13" ry="5" fill="#3878cc"/>
+    <ellipse cx="160" cy="42" rx="11" ry="5" fill="#4888dd"/>
+    <ellipse cx="116" cy="12" rx="16" ry="5" fill="#2858aa"/>
+  </g>
+
+  <!-- ════════ BLUE FLAMES ════════ -->
+  <g filter="url(#blueGlow)">
+    <!-- Outer flames — tall, organic curves -->
+    <!-- Center (tallest) -->
+    <path d="M128,122 C110,88 114,60 120,45 C124,34 127,24 128,18
+             C129,24 132,34 136,45 C142,60 146,88 128,122Z"
+          fill="url(#flameOuter)" opacity="0.9"/>
+    <!-- Left -->
+    <path d="M106,128 C92,102 96,78 102,64 C106,54 109,44 110,38
+             C114,48 116,60 118,74 C122,96 116,118 106,128Z"
+          fill="url(#flameOuter)" opacity="0.72"/>
+    <!-- Right -->
+    <path d="M150,128 C164,102 160,78 154,64 C150,54 147,44 146,38
+             C142,48 140,60 138,74 C134,96 140,118 150,128Z"
+          fill="url(#flameOuter)" opacity="0.72"/>
+    <!-- Far left wisp -->
+    <path d="M92,132 C82,114 86,96 90,84 C93,76 95,68 96,62
+             C100,72 101,82 102,92 C104,112 98,126 92,132Z"
+          fill="url(#flameOuter)" opacity="0.4"/>
+    <!-- Far right wisp -->
+    <path d="M164,132 C174,114 170,96 166,84 C163,76 161,68 160,62
+             C156,72 155,82 154,92 C152,112 158,126 164,132Z"
+          fill="url(#flameOuter)" opacity="0.4"/>
+
+    <!-- Mid flames -->
+    <path d="M128,120 C114,92 117,68 122,54 C125,44 127,34 128,28
+             C129,34 131,44 134,54 C139,68 142,92 128,120Z"
+          fill="url(#flameMid)" opacity="0.85"/>
+    <path d="M110,124 C100,104 104,84 108,74 C110,66 112,58 113,52
+             C116,62 117,72 118,82 C120,102 116,118 110,124Z"
+          fill="url(#flameMid)" opacity="0.6"/>
+    <path d="M146,124 C156,104 152,84 148,74 C146,66 144,58 143,52
+             C140,62 139,72 138,82 C136,102 140,118 146,124Z"
+          fill="url(#flameMid)" opacity="0.6"/>
+
+    <!-- Core flames — bright white-blue -->
+    <path d="M128,118 C120,96 123,76 126,64 C127,56 128,46 128,40
+             C128,46 129,56 130,64 C133,76 136,96 128,118Z"
+          fill="url(#flameCore)" opacity="0.9"/>
+    <path d="M116,122 C112,108 114,96 115,88 C116,82 117,76 117,72
+             C119,80 119,88 120,96 C121,108 118,118 116,122Z"
+          fill="url(#flameCore)" opacity="0.5"/>
+    <path d="M140,122 C144,108 142,96 141,88 C140,82 139,76 139,72
+             C137,80 137,88 136,96 C135,108 138,118 140,122Z"
+          fill="url(#flameCore)" opacity="0.5"/>
+  </g>
+
+  <!-- ════════ STONE GOBLET ════════ -->
+  <g>
+    <!-- Cup body — wide chalice -->
+    <path d="M76,110 L87,178 L169,178 L180,110 Z"
+          fill="url(#stone)" stroke="#555048" stroke-width="1"/>
+    <!-- Left face highlight -->
+    <path d="M76,110 L87,178 L105,178 L92,110 Z"
+          fill="url(#stoneLight)" opacity="0.45"/>
+    <!-- Right face shadow -->
+    <path d="M157,178 L169,178 L180,110 L170,110 Z"
+          fill="#454038" opacity="0.5"/>
+
+    <!-- Thick stone rim -->
+    <rect x="72" y="106" width="112" height="12" rx="3" fill="url(#stoneLight)"/>
+    <rect x="74" y="108" width="108" height="8" rx="2" fill="#c0bab0"/>
+    <line x1="76" y1="110" x2="180" y2="110"
+          stroke="#d8d2c8" stroke-width="1" opacity="0.5"/>
+
+    <!-- Cup interior (dark hollow) -->
+    <path d="M89,118 L97,173 L159,173 L167,118 Z" fill="#18161e"/>
+
+    <!-- Stem -->
+    <path d="M114,178 L117,214 L139,214 L142,178 Z" fill="url(#stone)"/>
+    <line x1="117" y1="178" x2="118" y2="214"
+          stroke="#b8b2a8" stroke-width="1" opacity="0.35"/>
+
+    <!-- Stem knob/ring -->
+    <ellipse cx="128" cy="192" rx="16" ry="7" fill="url(#stoneLight)"/>
+    <ellipse cx="128" cy="192" rx="13" ry="5" fill="url(#stone)"/>
+
+    <!-- Base -->
+    <rect x="100" y="214" width="56" height="12" rx="4"
+          fill="url(#stone)" stroke="#555048" stroke-width="0.5"/>
+    <rect x="102" y="215" width="52" height="8" rx="3" fill="url(#stoneLight)"/>
+    <line x1="104" y1="217" x2="152" y2="217"
+          stroke="#c8c2b8" stroke-width="1" opacity="0.4"/>
+  </g>
+
+  <!-- ════════ HARRY'S LIGHTNING BOLT SCAR ════════ -->
+  <!--
+    The scar from the films is a THIN zigzag on Harry's forehead.
+    It's basically 3 connected line segments making a simple Z/S shape:
+      - Down and to the right
+      - Sharp angle, down and to the left
+      - Sharp angle, down and to the right
+    Thin, like an actual scar — NOT a thick cartoon thunderbolt.
+  -->
+  <g filter="url(#boltGlow)">
+    <!-- Soft glow aura behind -->
+    <polyline points="178,14 168,36 176,34 164,58 172,56 160,80"
+             stroke="#4488ee" stroke-width="12" fill="none" opacity="0.15"
+             stroke-linecap="round" stroke-linejoin="round"
+             filter="url(#softGlow)"/>
+    <!-- Blue outer glow -->
+    <polyline points="178,14 168,36 176,34 164,58 172,56 160,80"
+             stroke="#5a9aff" stroke-width="6" fill="none" opacity="0.5"
+             stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Main scar — warm golden white, thin -->
+    <polyline points="178,14 168,36 176,34 164,58 172,56 160,80"
+             stroke="#ffe880" stroke-width="3.5" fill="none"
+             stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Bright hot center line -->
+    <polyline points="178,14 168,36 176,34 164,58 172,56 160,80"
+             stroke="#fffde0" stroke-width="1.5" fill="none"
+             stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

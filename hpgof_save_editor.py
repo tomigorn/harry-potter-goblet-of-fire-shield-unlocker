@@ -13,9 +13,14 @@ import struct
 import shutil
 import os
 import sys
+import ctypes
 import datetime
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
+
+# Set AppUserModelID so Windows taskbar shows our icon, not Python's
+if sys.platform == "win32":
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("tomigorn.hpgof.saveeditor")
 
 # ─────────────────────────────────────────────────────────
 # Save file binary format constants
@@ -177,7 +182,10 @@ class SaveEditorApp:
 
         # Try to set icon — silently skip if not available
         try:
-            self.root.iconbitmap(default="")
+            base = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
+            icon_path = os.path.join(base, "app_icon.ico")
+            if os.path.exists(icon_path):
+                self.root.iconbitmap(default=icon_path)
         except Exception:
             pass
 
