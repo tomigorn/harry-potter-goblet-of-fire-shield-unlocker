@@ -378,33 +378,42 @@ class SaveEditorApp:
 
         # Level rows
         self.level_vars = []
+        self.level_widgets = []  # (avail_entry, coll_entry, big_entry, max_btn)
         for i, name in enumerate(LEVEL_NAMES):
             row_frame = tk.Frame(container, bg=COLORS["bg_card"], pady=5, padx=10)
             row_frame.pack(fill="x", pady=1)
 
             guide_count = GUIDE_SHIELDS[i]
+            no_shields = guide_count == 0
             name_text = f"{name}"
             if guide_count > 0:
                 name_text += f"  ({guide_count} in game)"
+            else:
+                name_text += "  (no shields)"
 
-            ttk.Label(row_frame, text=name_text, style="CardBold.TLabel", width=28).pack(side="left")
+            lbl = ttk.Label(row_frame, text=name_text, style="CardBold.TLabel", width=28)
+            lbl.pack(side="left")
 
             avail_var = tk.StringVar(value="—")
             coll_var = tk.StringVar(value="—")
             big_var = tk.StringVar(value="—")
 
+            disabled_fg = "#555555"
+            entry_fg = disabled_fg if no_shields else COLORS["text"]
+            gold_fg = disabled_fg if no_shields else COLORS["accent_gold"]
+
             avail_entry = tk.Entry(row_frame, textvariable=avail_var, width=7, justify="center",
-                                   bg=COLORS["entry_bg"], fg=COLORS["text"], font=("Consolas", 10),
+                                   bg=COLORS["entry_bg"], fg=entry_fg, font=("Consolas", 10),
                                    insertbackground=COLORS["text"], relief="flat", bd=2)
             avail_entry.pack(side="left", padx=4)
 
             coll_entry = tk.Entry(row_frame, textvariable=coll_var, width=7, justify="center",
-                                  bg=COLORS["entry_bg"], fg=COLORS["text"], font=("Consolas", 10),
+                                  bg=COLORS["entry_bg"], fg=entry_fg, font=("Consolas", 10),
                                   insertbackground=COLORS["text"], relief="flat", bd=2)
             coll_entry.pack(side="left", padx=4)
 
             big_entry = tk.Entry(row_frame, textvariable=big_var, width=7, justify="center",
-                                 bg=COLORS["entry_bg"], fg=COLORS["accent_gold"], font=("Consolas", 10, "bold"),
+                                 bg=COLORS["entry_bg"], fg=gold_fg, font=("Consolas", 10, "bold"),
                                  insertbackground=COLORS["text"], relief="flat", bd=2)
             big_entry.pack(side="left", padx=4)
 
@@ -413,7 +422,14 @@ class SaveEditorApp:
                                  command=lambda idx=i: self._max_level(idx))
             max_btn.pack(side="left", padx=8)
 
+            if no_shields:
+                for entry in (avail_entry, coll_entry, big_entry):
+                    entry.configure(state="disabled", disabledbackground=COLORS["entry_bg"],
+                                    disabledforeground=disabled_fg)
+                max_btn.configure(state="disabled")
+
             self.level_vars.append((avail_var, coll_var, big_var))
+            self.level_widgets.append((avail_entry, coll_entry, big_entry, max_btn))
 
     def _build_set1_section(self):
         container = tk.Frame(self.scroll_frame, bg=COLORS["bg_dark"], pady=6)
@@ -450,21 +466,33 @@ class SaveEditorApp:
             row_frame = tk.Frame(self.set1_frame, bg=COLORS["bg_mid"], pady=4, padx=10)
             row_frame.pack(fill="x", pady=1)
 
-            ttk.Label(row_frame, text=name, style="MidBold.TLabel", width=24).pack(side="left")
+            no_shields = GUIDE_SHIELDS[i] == 0
+            label_text = name if not no_shields else f"{name}  (no shields)"
+            ttk.Label(row_frame, text=label_text, style="MidBold.TLabel", width=24).pack(side="left")
 
             avail_var = tk.StringVar(value="—")
             coll_var = tk.StringVar(value="—")
             big_var = tk.StringVar(value="—")
 
+            disabled_fg = "#555555"
+            entries = []
             for var in [avail_var, coll_var, big_var]:
+                fg = disabled_fg if no_shields else COLORS["text"]
                 e = tk.Entry(row_frame, textvariable=var, width=7, justify="center",
-                             bg=COLORS["entry_bg"], fg=COLORS["text"], font=("Consolas", 10),
+                             bg=COLORS["entry_bg"], fg=fg, font=("Consolas", 10),
                              insertbackground=COLORS["text"], relief="flat", bd=2)
                 e.pack(side="left", padx=4)
+                entries.append(e)
 
             max_btn = ttk.Button(row_frame, text="MAX", style="Small.TButton",
                                  command=lambda idx=i: self._max_set1(idx))
             max_btn.pack(side="left", padx=8)
+
+            if no_shields:
+                for e in entries:
+                    e.configure(state="disabled", disabledbackground=COLORS["entry_bg"],
+                                disabledforeground=disabled_fg)
+                max_btn.configure(state="disabled")
 
             self.set1_vars.append((avail_var, coll_var, big_var))
 
@@ -592,28 +620,38 @@ class SaveEditorApp:
         # Levels (set 2)
         total = 0
         for i, (avail_off, coll_off, big_off) in enumerate(LEVEL_GROUPS):
-            avail = read_u32(data, avail_off)
+            avail = GUIDE_SHIELDS[i]
             coll = read_u32(data, coll_off)
             big = read_u32(data, big_off)
             total += big
 
             av, cv, bv = self.level_vars[i]
-            av.set(str(avail))
-            cv.set(str(coll))
-            bv.set(str(big))
+            if avail == 0:
+                av.set("N/A")
+                cv.set("N/A")
+                bv.set("N/A")
+            else:
+                av.set(str(avail))
+                cv.set(str(coll))
+                bv.set(str(big))
 
         self.total_var.set(str(total))
 
         # Set 1
         for i, (avail_off, coll_off, big_off) in enumerate(FIRST_SET_GROUPS):
-            avail = read_u32(data, avail_off)
+            avail = GUIDE_SHIELDS[i]
             coll = read_u32(data, coll_off)
             big = read_u32(data, big_off)
 
             av, cv, bv = self.set1_vars[i]
-            av.set(str(avail))
-            cv.set(str(coll))
-            bv.set(str(big))
+            if avail == 0:
+                av.set("N/A")
+                cv.set("N/A")
+                bv.set("N/A")
+            else:
+                av.set(str(avail))
+                cv.set(str(coll))
+                bv.set(str(big))
 
         # Flags
         for i, off in enumerate(SAVEFLAGS_OFFSETS):
@@ -634,6 +672,11 @@ class SaveEditorApp:
 
         # Levels (set 2)
         for i, (avail_off, coll_off, big_off) in enumerate(LEVEL_GROUPS):
+            if GUIDE_SHIELDS[i] == 0:
+                write_u32(data, avail_off, 0)
+                write_u32(data, coll_off, 0)
+                write_u32(data, big_off, 0)
+                continue
             try:
                 avail = int(self.level_vars[i][0].get())
                 coll = int(self.level_vars[i][1].get())
@@ -649,6 +692,11 @@ class SaveEditorApp:
 
         # Set 1
         for i, (avail_off, coll_off, big_off) in enumerate(FIRST_SET_GROUPS):
+            if GUIDE_SHIELDS[i] == 0:
+                write_u32(data, avail_off, 0)
+                write_u32(data, coll_off, 0)
+                write_u32(data, big_off, 0)
+                continue
             try:
                 avail = int(self.set1_vars[i][0].get())
                 coll = int(self.set1_vars[i][1].get())
@@ -707,23 +755,19 @@ class SaveEditorApp:
     # ── Quick actions ──
 
     def _max_level(self, idx):
-        """Set a single level row to max."""
+        """Set a single level row to max using known correct shield counts."""
         avail_var, coll_var, big_var = self.level_vars[idx]
-        try:
-            avail = int(avail_var.get())
-        except ValueError:
-            avail = 5
-        coll_var.set(str(avail))
-        big_var.set(str(avail))
+        correct = GUIDE_SHIELDS[idx]
+        avail_var.set(str(correct))
+        coll_var.set(str(correct))
+        big_var.set(str(correct))
         self._update_total_display()
 
     def _max_set1(self, idx):
         avail_var, coll_var, big_var = self.set1_vars[idx]
-        try:
-            avail = int(avail_var.get())
-        except ValueError:
-            avail = 5
-        coll_var.set(str(avail))
+        correct = GUIDE_SHIELDS[idx]
+        avail_var.set(str(correct))
+        coll_var.set(str(correct))
 
     def _max_all(self):
         """Maximize everything."""
