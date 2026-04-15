@@ -241,7 +241,7 @@ This project is not affiliated with or endorsed by Electronic Arts, Warner Bros.
 
 This project is licensed under [CC BY-NC-SA 4.0](LICENSE) — free to use, share, and modify for non-commercial purposes. See [LICENSE](LICENSE) for details.
 
-The file `gamefaqs_walkthrough_archive.txt` is not covered by this license — it is copyrighted by its original author (spitfox) and is included here only as a reference archive.
+The file `gamefaqs_walkthrough_archive.txt` is not covered by this license — it is copyrighted by its original author (spitfox) and is archived here under fair use for non-commercial reference and preservation only. It will be removed upon request by the rights holder.
 
 ### Credits
 
