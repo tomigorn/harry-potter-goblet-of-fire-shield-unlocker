@@ -9,8 +9,8 @@
 **PC · 2005 · EA Games**
 
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)](#requirements)
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?label=download&color=green)](../../releases/latest)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?color=yellow)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/tomigorn/harry-potter-goblet-of-fire-shield-unlocker?label=download&color=green)](../../releases/latest)
+[![License](https://img.shields.io/github/license/tomigorn/harry-potter-goblet-of-fire-shield-unlocker?color=yellow)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-3776ab?logo=python&logoColor=white)](https://www.python.org/downloads/)
 
 No hex editing. No coding. No replaying levels. Just download, click, and play.
