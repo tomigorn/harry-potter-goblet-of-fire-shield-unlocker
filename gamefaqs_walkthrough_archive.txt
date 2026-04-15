@@ -1,0 +1,1447 @@
+================================================================================
+  ARCHIVED COPY — This file is a backup of the original FAQ/Walkthrough
+  hosted on GameFAQs, preserved here solely for reference in case the
+  original page is taken down or becomes unavailable.
+
+  Original source:
+  https://gamefaqs.gamespot.com/ps2/927365-harry-potter-and-the-goblet-of-fire/faqs/40319
+
+  All credit belongs to the original author (spitfox). This is NOT my work.
+================================================================================
+
+                  ==-==-==-==-==-==-==-==-==-==-==-==-==-==
+                  || Harry Potter and the Goblet of Fire ||
+                  ||           FAQ/Walkthrough           ||
+                  ||             By:spitfox              ||
+                  ||    Email: michaelboy7772@cox.net    ||
+                  ||           Version: Final            ||
+                  ==-==-==-==-==-==-==-==-==-==-==-==-==-==
+
+This guide is for private and personal use only.  This guide or part of this 
+guide may not be reproduced in any form whatsoever. This document may not be 
+altered in any way without the permission from its author. www.gamefaqs.com 
+is the only site that is allowed to use/post this document.
+
+This guide is not complete but I will not be answering any more questions
+that I get in emails. I will only be accepting the ones that have comments
+about my guide or suggestions for the next one. If you have a question you're
+more than welcome to search through my guide for the answer. If you have
+something to contibute like the location of something I would be happy
+to add it and give you credit, thanks for your help and I hope you enjoy
+the guide. :)
+
+
+                             =================
+                           / Table of Contents \
+                           -===================-
+
+
+For Easy Navigation press ctrl+f and type in one of the numbers.
+
+ 1.0  Getting Started
+  1.1  About the game
+  1.2  Controls
+  1.3  Characters
+  1.4  Spells
+  1.5  Creatures
+
+ 2.0  Introduction
+
+ 3.0  Walkthrough
+  3.1  Defense Against the Dark Arts     
+  3.2  Hogwarts Exterior
+  3.3  Moodys Challenges
+  3.4  Forbidden Forest
+  3.5  Triwizard Task 1                  100%
+  3.6  Prefects Bathroom                 100%
+  3.7  Herbology
+  3.8  Triwizard Task 2                  100%
+  3.9  Triwizard Task 3                  100%
+  3.a  Voldemort                         100%
+
+ 4.0  Sub-Quests
+  4.1  Hogwarts Exterior
+  4.2  Forbidden Forest
+  4.3  Prefects Bathroom                 100%
+  4.4  Herbology 
+  4.5  Moodys Challenge                  100%
+  
+ 5.0  Collectors Cards
+
+ 6.0  Frequently Asked Questions
+
+ 7.0  Credits and Thanks
+
+
+
+                            =====================
+                          / Getting Started (1.0) \
+                          -=======================-
+
+
+--------------------
+About The Game (1.1)
+--------------------
+
+
+Harry Potter and the Goblet of Fire is the fourth edition to the Harry Potter
+games. This game has a unique new way about it, instead of roaming around the
+castle like you've been able to do in the other games, you now have to choose
+a level and play it level by level. You can also play co-op with two other
+friends.
+
+After every time you collect a shield it takes you back to the main screen
+and you must select the level over or choose a new one. After collecting
+a certain amount of shields you unlock new levels. 
+
+While in each level you will encounter many creatures you need to 
+defeat to obtain beans. You use thease beans to buy cards that will boost
+your stats and help you in the levels. 
+
+
+--------------
+Controls (1.2)
+--------------
+
+
+x button        - cast jinxes
+triangle button - cast accio
+circle button   - uses magicus extremos
+square button   - uses charm spell
+R1 button       - accelerate in triwizard tasks
+R2 button       - no use
+L1 button       - no use
+L2 button       - no use
+Start           - pauses game
+Select          - no use
+D-pad/Analog    - move character
+
+
+----------------
+Characters (1.3)
+----------------
+
+
+There are three characters in the game, who are the three main characters in
+the series. Harry Potter, Hermoine Granger, and Ron Weasley. You can choose
+to play as any of them in the game but it doesn't really make a difference
+who you choose in the begging. You'll want to try to even it out so that you
+can collect enough beans for everyody to unlock all of their cards.
+
+
+------------
+Spells (1.4)
+------------
+
+
+(From booklet)
+
+Mastering magic has never been so intuitive or so rewarding. Cast impressive 
+jinxes and charms and team up to creat powerful co-operative spells, the
+expierience the spectacular supercharged power of Magicus Extremos. Earn points
+for skillful spell casting to increase you Magic Mastery level and unlock
+collector's cards.
+
+Jinx Spells-
+
+Orbis
+Avifors
+Orchideous        
+Melofors
+Vermiculus          
+Pullus             
+Lapifors           
+Ebubilio
+Ducidifors
+Inflatus           
+
+Charm Spells-
+
+Wingardium Leviosa - Levitates objects and creatures.
+Carpe Retractum    - Pulls objects and certain creatures towards you.
+Aqua Eructo        - Fires a jet of water to put out fire.
+Herbivicus         - Cases leaves to grow and plants to bloom at rapid pace.
+Accio              - Pulls beans and other things towards you.
+Magicus Extremos
+
+All three players join together to unleash powerful spells that are only 
+acheived when using this.
+
+
+---------------
+Creatures (1.5)
+---------------
+
+
+Dugbog
+Salamander
+Erkling
+Skrewt
+Vampyr Mosp
+
+
+
+                            ==================
+                          / Introduction (2.0) \
+                          -====================-
+
+
+Harry Potter is in his fourth year at Hogwarts, and his most exciting year
+yet, it is the year that they will be hosting the Triwizard Tournament.
+This tournament has been going on for the last 700 years by, Hogwarts
+Durmstrang, and Beauxbatons. It is held every five years and was just brought
+back by Dumbledore a while back.
+
+The tournament consists of three challenges that test the students in many
+aspects, the first challenge is a test against a dragon. They need to collect
+and egg that the dragon is guarding. The second challenge is a rescue
+challenge, each student must find a way to breath underwater for one hour and
+collect one of their friends that are stranded somewhere underneath. The
+third and final task is a giant maze that will test the students more than
+anything else, they must fight their way through it to find the triwizard cup
+that is placed somewhere in the maze.
+
+The schools all arrived and they started setting up the three tasks that would
+test the three students that were chosen by the Goblet, one from each school.
+From Hogwarts, it selected Cedric Diggory, Fleur Delacour from Beauxbatons, 
+and Viktor Krum from Durmstang. After it had selected the students it suddenly
+flamed up again and spit out one more contestant to this legendary tournament..
+..Harry Potter.
+
+
+
+                           =================
+                         / Walkthrough (3.0) \
+                         -===================-
+
+
+
+                       INTRO/QUIDDITCH WORLD CUP
+
+
+Your first objective in this game is to run through all of the chaos and make
+it back to the portkey before you are killed. You need to run to the right
+and you will find some dugbogs, keep running and killing these alone the way
+to make it to a short scene of Mr. Weasley casting wingaurdium leviosa on a
+rock in the way. All of you must do this and move the rock to the side to 
+continue on.
+
+Follow the path until you come to another spot where you are going to have
+to move a rock out of the way. Once all your players catch up move the rock
+to the side and keep going killing anything in your way. A long will 
+eventually be knocked down in front of you. Pull it towards you to move it
+out of your way. You'll have to do this three times and then head into a
+new area where a bunch of dugbogs will surround you.
+
+After you defeat all of these and continue you'll come to a bridge with a
+rock blocking your way on. Move this and then when you come to the turn 
+watch out for the rocks rolling down the hill. There will be a pile of
+rocks with a death eater on top.... oh no what are we going to do. Pull
+the log out from underneath him and send him tumbling down the hill. Now
+you'll see it, the legendary, most feared thing of all, the dark mark.
+Head onto the bridge to get the portkey and end the level.
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+||                                                                           ||
+||                   (3.1) DEFENSE AGAINST THE DARK ARTS                     ||
+||                                                                           ||
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+You start off by meeting Mad-Eye Moody for and extra Defense Against the Dark
+Arts lesson. First you must jinx the bucket that will give you beans after you
+hit it. Search the room you're in and jinx anything that is jinxable to gain
+some extra beans. Once you are done go through the door at the front to the
+next room.
+
+You'll enter a room with a Dugbogs in it. Jinx it until it blows up and collect
+all the beans, more will appear so just keep on killing them until they stop
+comming, be sure to collect as many beans as you can.
+
+The next room teaches you how to use the Accio Charm which you will be using
+alot. It helps you summon objects towards you so you can collect things that
+are out of reach. Use the accio charm to get all the things on the pedastals to
+open a gate that contains a spell book. The spell that it teaches you is the
+Aqua Eructo spell. This completes the first lesson.
+
+
+
+Now it's time to start your second lesson. You'll have to extinguish all of the
+fires in the room with the help of the other two. Be sure to collect everything
+on your way through the room before enterings the next one.
+
+In the next room we're meeting a new enemy, salamanders. Kill it by casting
+jinx's on it and collect everything that is in the room before moving on. Now 
+you are on the outside of the castle, move up the ramps leading to the top
+tower and watch out for the spray fire than comes out of the walls.
+
+About half way up you will come to a salamander fire. First you need to put
+out the fire, then put out the salamander before you jinx and kill it. After
+you have done this the gate will open and you will be able to continue up the
+tower.
+
+Now continue up the stairs and again be sure to watch out for the fire jets.
+You will now come to the top of the tower, there will be many fires around
+the outside of it and then another salamander fire in the middle. First put
+out the salamander fire so they will not respawn, now work on killing the
+two salamanders. Then put out all the fires around the side and the big fire.
+
+Pull down the drawbridge so you can cross to the other tower. Collect the
+chocolate frog after you cross then continue on your way up. When you get
+to the top you will find two salamander fires this time. You know what to do.
+Once they are all dead the gate will open and you will be free to grab your
+first triwizard shield. These shields are the point of the game, you must
+go around and collect these, there are 38 in all and the more you have the
+more levels that open up.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+From now on you must select a level from the Pensieve. You can select a
+level, view all of the information about the level like sub-quests, or
+press O to access Folio Universitas to see all of the collectors cards
+you have collected.
+
+Also when you select a level you can equip cards that will boost your stats,
+you can equip three to every character before you start.*Note* you can't
+equip cards during triwizard levels.
+
+*****NOTE*****
+After you collect all the mini-shields the shield will appear near you or
+if you restart the level it will be near the beginning.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                          (3.2) HOGWARTS EXTERIOR
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Finally our first level, there are some things you are going to need to know
+before you continue on in the game. There are more than just the shields to
+collect in this game. You also need to find gargoyles, dragon statues,
+vanishing cards, and mini-shields to complete this game to its fullest. The 
+gargoyls and dragon statues, and vanshing card can be found in the sidequest 
+section if you're a perfectionist like me. Also I think the vanishing card can 
+only be obtained after you have collected all of the triwizard shields in a 
+level.
+
+
+1.) Obtained by collecting all 10 mini-shields
+   
+   * Mini shield locations *
+
+a.) Right by the staircase in front of you when you start the level.
+b.) If you go by the stairs and all the way left you'll come to four rock in
+    your path, throw them out of the way so you can continue on. You'll come
+    to a place where you can go left or right, go left and continue on. Move
+    the block to the ledge so you can move up then go around either side 
+    blowing out the fire on the way around. When you get there go to the little
+    path that looks like its leading to the water and use Accio spell to get 
+    it. 
+c.) Turn around and open the gate, extinguish the fire to get your third one.
+d.) Move the box from where it is to the opposite side so you can climb up the
+    tower. After pull the bridge down so you can go from the tower on the left
+    to the one on the right and collect the shield.
+e.) Go down the stairs to your left, go down farther and break the wall to your
+    left and then break the fountain thats in that back corner to collect the
+    next shield.
+f.) Go down the stairs, down again, break the walls to your left, the break the
+    walls heading down the left side until you come to the one with the fire
+    salemander. Break it and kill the salemander then collect the next shield.
+g.) Go down the stairs, down again, and break all the walls going on the right
+    side. After that extinguish the first burner then continue and extinguish
+    all of them on the way. You'll come to an area with first and salemanders,
+    just kill everything and extinguish everything. Take the cauldron and break
+    the support to the building in the back right corner to get the shield.
+h.) Go down the stairs, down, break all the walls going right. Now you'll be
+    able to see a fire burner to your left, a cauldron in front of you and 
+    many statues. Break all the statues and you'll find it in one of them.
+i.) Go down all the way and move the rocks, continue down and choose the right
+    path. Go down and pull the drawbridge down. Kill the erkling then pull the
+    next bridge down and collect the shield thats there.
+j.) Keep going from there and pull down the draw bridge then keep going up the
+    stairs till you come to an are with a dark detector right in the middle and
+    kill the erklings. Go down the path to your left side and collect the last
+    shield.
+
+
+
+After collecting all the mini shields the triwizard shield will appear either in
+the beginning of the level or close to the last mini shield you just collected,
+thanks to RPGSanchez for this information.
+
+
+
+2.) In the begining go down the stairs to your left and stack the blocks near 
+    the wall and climb up. Go around the wall and collect the Shield thats 
+    there.
+
+3.) Go all the way down to the left past the rocks to where you can go left or
+    right and go right. Follow the path and pull down the bridge. Fight 
+    everything in your way and continue pulling down bridges and going until you
+    come to the stairs that lead you to the top of the tower. Extinguish all the
+    fires and kill everything. After its all gone the shield will appear in the
+    middle.
+
+4.) Where the last one was it should be there right when you go in, you could
+    get these two in either order this one is there all the time underneath one
+    of the fires you just have to put it out and collect it.
+
+5.) Go down the stairs to your left and go down the other stairs farther down.
+    Break the wall to your left climb up the wall and lift the box down to the
+    lower level, go down and break all the walls to either side and move the box
+    through the walls to the other end and place it next to the wall. Climb up 
+    it and collect your fourth shield of the level.
+
+6.) Head down all the way and move the rocks, then head left and move the block
+    so you can climb. Go to the other side and open the gate. Move the
+    block on the right to the left side and climb up. Move the bridge down and
+    cross put the block thats there down where the first one was. Climb on top
+    of it and go up to collect the next shield.
+
+7.) Go down and break the walls all the way down the right side. Go left and go
+    past all the fires to the area with all the fire salemanders. Kill of them
+    to open a gate in the middle top of the screen. Move a cauldron into it to
+    hit the support on the building. It will fall and you can collect your next
+    shield.
+
+8.) Head down past the rocks and go down the left path move the block and go 
+    down either side, go to the area that looks like its going into the water 
+    to the fountain and use the herbivicus spell to get the shield.
+    *NOTE* You can't get this shield until you do the Herbology level.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                         (3.3) MOODY'S CHALLENGES       
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                      
+                                                                              
+There are 5 Challenges in this level and you unlock them depending on how many 
+shields you have so far. You may have to wait until it opens until you can    
+play it. The challenges have time limits that determine if you get a Bronze,  
+Silver, or Gold which gives you more beans.                                   
+
+                    =---------------------------=  
+                    |Challenge 1: Dugbog Avifors|  
+                    |        Difficulty         |
+                    |           8/10            |
+                    |                           |
+                    |Times-          Beans-     |
+                    |                           |
+                    | Gold:   1:30  - 450       |
+                    | Silver: 2:00  -  50       |
+                    | Bronze: 3:00  -   0       |
+                    =---------------------------=
+
+          In this challenge you must use the Avifors jinx 
+          to kill the dugbogs, you have to kill 10 in under 
+          1:30 to get the gold. To perform the Avifors jinx 
+          you mustparalyze the dugbog by jinxing it then 
+          lift it into the air and have one of the friends 
+          kill it in the air. Or vise versa you killing it.
+
+  =--------------------------------------------------------------------=
+  |                 Strategy Contributed by RPGSanchez:                |
+  |                                                                    |
+  |Although it is fairly difficult to achieve gold first time on the   |
+  |"Dugbog Avifors" challenge without the aid of at least 1 other human| 
+  |controlled character, it can be done quite easily with 1 player if  |
+  |you know how. Kill the Dugbogs throughout the game with the required| 
+  |spells to unlock the 4 Dugbog cards, doing this will unlock the 5th | 
+  |card. Once this is done equip the Dugbog card to the character you  |
+  |control and start the challenge. The Dugbogs will not attack you    |
+  |leaving you free to cast Wingardium Leviosa on them without getting |
+  |hurt. This exploit will enable you to easily achieve the gold rank. |
+  =--------------------------------------------------------------------=
+
+                       =-----------------------=
+                       |Challenge 2: Levitation|
+                       |     Difficulty        |
+                       |        2/10           |
+                       |                       |
+                       |Times-          Beans- |
+                       |                       |
+                       | Gold:    :55   - 350  |
+                       | Silver: 1:30   - 150  |
+                       | Bronze: 2:30   -   0  |
+                       =-----------------------=
+
+              In this challenge you need to use Wingardium 
+              Leviosa to place the rocks onto all of the 
+           platforms without them falling off in the time limit.
+
+                   =--------------------------------=
+                   |Challenge 3: Exploding Cauldrons|
+                   |          Difficulty            |
+                   |            3/10                |
+                   |                                |
+                   |Times-          Beans-          |
+                   |                                |
+                   | Gold:   1:00   - ???           |
+                   | Silver: 1:30   - ???           |
+                   | Bronze: 2:00   - ???           |
+                   =--------------------------------=
+
+             In this challenge just take the cauldrons and smash 
+             them into everything that is there, be careful for 
+            the one that is way out in the back that you must hit.
+
+                     =----------------------------=
+                     |Challenge 4: Bobotuber Fling|
+                     |         Difficulty         |
+                     |            8/10            |
+                     |                            |
+                     |Scores-          Beans-     |
+                     |                            |
+                     | Gold:    500     - 350     |
+                     | Silver:  250     - 150     |
+                     | Bronze:  100     -   0     |
+                     =----------------------------=
+
+        Catapult the Bobotubers at the targets and get the highest 
+                  score you can within the time limit.
+
+     =--------------------------------------------------------------=
+     |               Strategy contributed by RPGSanchez             |
+     |                                                              |
+     |In the "Bubotuber fling" challenge it is possible to score    |
+     |as much as three times the required amount to achieve gold    |
+     |though it is very difficult and requires a lot of practice.   |
+     |The target on the far left is worth 50 points as opposed to   |
+     |10-15 points for the furthest 2 away in the cluster. This 50  |
+     |point target can be hit with the 3 bubotubers on the left and |
+     |getting a good rhythm going will accumulate a whopping 15-1800| 
+     |points.                                                       |
+     =--------------------------------------------------------------=
+                       =-------------------------=
+                       |Challenge 5: Tower Blocks|
+                       |       Difficulty        |
+                       |          2/10           |
+                       |                         |
+                       |Times-            Beans- |
+                       |                         | 
+                       | Gold:   1:25      -???  | 
+                       | Silver: 1:50      -???  |
+                       | Bronze: 2:30      - 50  |
+                       =-------------------------=
+
+          Using Wingardium Leviosa, balance the five blocks on top 
+          of one another on the symbol in the centre of the level, 
+                          as quickly as you can.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                         (3.4) FORBIDDEN FOREST
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+There are 8 shields in the forest but some you may not be able to get right now 
+because you need the herbivicus spell to get them. This forest may be hard to
+figure out where you are in the beginning but it is actually really easy and 
+it is easy to find everything pretty fast.
+
+1.) Obtained by collecting all 10 mini-shields
+
+   * Mini-shield location *
+
+a.) Right where you start there are two boulders to your right, lift them and
+    collect the shield.
+b.) From the start go to the left and then to the left will be a Bototuber,
+    launch it so you can go then your will come up to another one. Launch it 
+    into the poisonous mushrooms to get the second mini-shield.
+c.) To the right of the last one is a tree trunk with the shield on top of it,
+    use the accio spell to get it.
+d.) Keep going past 2 sets of mushrooms and you should come to a ledge that 
+    will be on your right. Take the cauldronand fling it into the Butotubers 
+    that are blocking a path up at the top of the screen then run there and get
+    the shield inside.
+e.) Get out and keep going and the dragon will be shooting fire go up on your
+    right and you'll find your 5th shield.
+f.) By the octogon you'll find a fire in the fires your next shield.
+g.) Go left where all the Bototubers are and shoot them into the poisonous
+    mushrooms to find the next shield.
+h.) Pull down the door and climb the stairs, there will be many fire jets, in
+    one is the next shield.
+i.) From the octagon go to the left and then turn when you can make a right stay
+    on the right side and its over there.
+j.)
+
+Reset the level and the shield will be right near you.
+
+
+2.) You must find the Skrewt which is south of the octagon all the way back to
+    the area with a stump and 2 bobotubers in the area, shoot it into the 
+    poisonous mushrooms at the top of the screen then continue. After you beat 
+    the Skrewt the shield's in the middle of the area.
+
+3.) To the right of the octagon it is flying in the air. You must go left and
+    find the block, levitate it back to the shield and put it underneath the
+    shield to obtain it.
+
+4.) When your being chased by the dragon or following it whatever your doing,
+    you cross a bridge and fight a Skrewt and after you beat it you will find
+    the shield.
+
+5.) You must find the dragon that is in the cage to get the next one. Head south
+    of the octagon until you get to the area with the tree stump and two boto-
+    tubers, shoot the bototuber to the mushrooms in the south and continue on.
+    You'll eventually come to an area with the mushrooms on the right side of
+    the area, shoot those mushrooms to find the dragon. Now the first shield
+    in the dragon area is next to the cage. Move the box in front of the cage
+    so that it can not shoot you then put out the fires that are next to it, and
+    collect the shield.
+
+6.) In the same area as the last is the next shield on top of the cage. Head to
+    the right side and shoot a bototuber into the poisonous mushrooms heading up
+    the hill. Then you must use the herbivicous spell on the roots to get the
+    shield.
+
+7.) Start at the octagon and head to the left side and follow it up past all the
+    mushrooms till you get to the stairs where all the fire shoots out. Follow
+    it and cross the tree stump the head right and go to the end when you find
+    what looks like a broken building. Inside it you see the shield hanging 
+    there and you need to use the herbivicous spell on the roots to obtain it.
+8.) In the area with the Skrewt you must use herbivicous on the plants to climb
+    up to another area with another Skrewt up there. Kill the Skrewt and the
+    Vampyrs until the shield falls then collect it to get the last shield.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                            (3.5) TRIWIZARD TASK 1
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Gold:   3 shields
+Silver: 2 shields
+Bronze: 1 shield
+
+This is the first of the three triwizard tasks you must endure in the 
+tournament. You must collect the egg that is placed in the area of a dragon.
+You start out on your broom flying away from the dragon that is chasing you
+around the castle. You need to fly around the castle and collect as many bean
+rings as you can. YOU DO NOT NEED TO WORRY TO MUCH ABOUT THE TIME SO DONT WORRY
+ABOUT FLYING THROUGH THE SPEED RINGS. All you need to do is collect as many 
+beans as you can and you will easily obtain the gold and collect the egg that
+will help you in your next task.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                           (3.6) PREFECTS BATHROOM
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+1.) The first shield is obtained after collecting the egg, but its going to be
+    harder than just grabing it out of the bathtub.
+    Take the cauldron and smash it into the broken wall until it breaks and
+    head into the new area. 
+
+    From the bathtub area break the steam pipes on the right side, be careful
+    and don't touch the water shooting out right after this. Now fall down and
+    then head up towards the top of the screen and climb up the platform there
+    then climb up the two platforms to your left right after it. Pull down the
+    bridge and climb up and move the water out of your way. Now head back down
+    the three platforms you've climbed up and head to the upper path that is
+    now available to you. Pull down the bridge in this next area and climb up
+    into the new area. Move the two water faucets in this area then drop the
+    cauldron down right behind it onto the pipes to destroy them. Now you can
+    exit this area where you came in on the bridge and down and back around.
+    Now fall down where you climbed up before and this time go down the right
+    path, watch out for the things that are shooting out water then head up
+    where the two fish statues are and go right head all the way down and into
+    the next area. Head to the left side and follow it until you come to a
+    bridge, use carpe retractum to pull it down then follow the path until
+    you come to an area with salemanders. Now you can either fight them or
+    just head to the bridge at the top of this area and pull it down, after
+    you do this head across and fall down to the lower area. Head all the
+    way until you come to an area with more salemanders, after you fight
+    them just walk over to the edge and it will get pushed back into the
+    bathroom. Head all the way back the way you just came and right before
+    the door will be a bunch of erklings, either kill them or just run past
+    them and into the bathroom to collect the shield and open up the rest of
+    the level.
+
+2.) Obtained by collecting all 10 mini-shields.
+   
+   * Mini-shield Locations *
+
+a.) Break the steamer with the cauldron in the middle of the first area you
+    come to after leaving the bathtub area.
+b.) After coming from the bathtub area pull down the drawbridge at the top
+    and fling the cauldron at the steamers at the other side of the area.
+c.) From the bathtub area break the steam pipes on the right side, be careful
+    and don't touch the water shooting out right after this. Now fall down and
+    then head up towards the top of the screen and climb up the platform there
+    then climb up the two platforms to your left right after it. Use the
+    cauldron to blow up the steamer in the middle and use accio to get the
+    shield.
+d.) From the bathtub area break the steam pipes on the right side, be careful
+    and don't touch the water shooting out right after this. Now fall down and
+    then head up towards the top of the screen and climb up the platform there
+    then climb up the two platforms to your left right after it. Pull down the
+    bridge and climb up and move the water out of your way. Now head back down
+    the three platforms you've climbed up and head to the upper path that is
+    now available to you. Pull down the bridge in this next area and climb up
+    into the new area. Blow up the steamer in this area to get the next shield.
+e.) From the bathtub area break the steam pipes on the right side, be careful
+    and don't touch the water shooting out right after this. Now fall down and
+    then head up towards the top of the screen and climb up the platform there
+    then climb up the two platforms to your left right after it. Pull down the
+    bridge and climb up and move the water out of your way. Now head back down
+    the three platforms you've climbed up and head to the upper path that is
+    now available to you. Pull down the bridge in this next area and climb up
+    into the new area. Move the two water faucets in this area then drop the
+    cauldron down right behind it onto the pipes to destroy them. Now you can
+    exit this area where you came in on the bridge and down and back around.
+    Now fall down where you climbed up before and this time go down the right
+    path, watch out for the things that are shooting out water then head up
+    where the two fish statues are and go right, climb up the path right in
+    front of you and walk over to the cauldron. Now this one is kindof hard
+    to get you need to hit the steam that is down where you just came up to
+    the right and at the top of the screen. After a couple of tries you 
+    will get it then just jump down head down the stairs and grab the shield.
+f.) The same as above just break the steamer at the bottom of the screen 
+    instead, it is pretty hard to hit.
+g.) From the checkpoint head left down and use carpe retractum on the bridge
+    head to where the cauldron is and use it on the steamer to get the mini-
+    shield.
+h.) From the checkpoint head right and up the stairs, now pull the bridge down
+    with carpe retractum and head into the area where there are fires. There
+    are two statues ram either one of them with the cauldron to get the shield.
+i.) Ram the cauldron into the other statue to get the next shield.
+j.) From the checkpoin head right and there are stairs heading down right
+    before the lake. Head down them and into the open area at the bottom and
+    the shield will just be sitting there in the open.
+
+
+3.) The third shield can be obtained after you have collected the egg to get the
+    first shield. From the checkpoint head right and across the bridge, follow
+    it all the way down and up the stairs, kill the erklings here then pull
+    down the bridge and continue to the next area, at the left side is a set
+    of stairs down. You need to pull the bridge you come to and the pull the
+    next one right after it and the shield will be in front of you.
+
+4.) From the checkpoint head right and drop the cauldron you run into onto the
+    pipes below you. Now head back and go down where they just were and fall
+    into the big open area, move the box up onto the platform and past the
+    pipes you blew up. Put it up against the wall that is there and climb it
+    to obtain the next shield.
+
+5.) From the checkpoint head right and you will see a lake, you will see a bud
+    sticking out of the water, ignore this one and go until you find another
+    one. Use herbivicous on this and remember the spot. Now head to where the
+    stairs are on your right and head up them and pull down the bridge. After
+    you head up the next set of stairs immediately on your left will be a
+    faucet move this out of the way then head all the way back to where you
+    casted herbivicous. Once on the middle platform head to the right set
+    of buds and go across, head up the stairs in this area and move the water
+    in the new area towards the bottom. Head all the way back to the middle 
+    platform then cast herbivicous on the buds to the left. Head to the left
+    side of this area to collect the next shield.
+
+6.) From the checkpoint head left and pull down the bridge. In the area with
+    the salemanders kill them then pull down all the bridges on the other side
+    of the area you're at. Pull down the bridge then fall down to where you
+    just pulled down the bridges, watch out for the water shooting out. Run
+    Across then you'll come to an area with three buds, cast herbivicous on 
+    them to get the shield.
+
+7.) From the checkpoint head right and cast herbivicous on the first bud, go
+    to the little platform then head to the left bud, after you cast 
+    herbivicous, kill the vampyrs go up the stairs and move the waters. Now
+    head all the way back two where you casted herbivicous on the first bud
+    and head all the way right to the stairs. Kill the erklings then pull down
+    the bridge and head up the next set of stairs. Head to the left side of
+    this area and down both sets of stairs and head all the way down this
+    platform to get the next shield.
+
+8.) Head all the way back to the bathtub room you started in. Drop a 
+    cauldron on the floor of the tub to get the last shield.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                             (3.7) HERBOLOGY
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+In this level there are 8 shields to collect.But first you must collect the 
+spell book ( The spell book gives you the spell herbivicus). Head down the 
+stairs and go straight the way your heading till you come to a gate. Open it 
+and go throught and the spell books right there.
+
+1.) obtained by collecting all 10 mini shields
+
+   * Mini-shield Locations*
+
+a.) Right behind the spell book
+b.) After you get the spell move the big rock and then follow the stair case
+c.) When you get in the green house go to the left side and take the upper path,
+    pull the bridge down thats above you then shoot the bobotuber and the
+    mushrooms, now go back and use herbivicous until you get through all the 
+    stairs and outisde and the shield is underneath the stairs out there and 
+    theres  a save shere thing
+d.) where you fight the blast-ended screwt its in the back corner you have to 
+    move the rocks before you get it
+e.) go up the stairs and into the next area, pull down the drawbridge on your 
+    left then go back around and go through the place, get on the rooftop and 
+    open the gate and the next ones in front of you
+f.) go down the stairs and into the next greenhouse, go all the way up to the 
+    top using herbivicous when needed until you reach the top and its up there.
+g.) From the save point go through the gate and up the stairs into the next 
+    area. Pull down the draw bridge on your left and the shields on your left.
+h.) Go from the save point back up the stairs and into the green house. Follow
+    the stairs back to the water and you'll be on the left side. Go across to 
+    the right side and go past the bobotuber plants and the next shield will be
+    there.
+i.) Go straight this time and it's right in the middle of the place.
+j.) From the save point go past the gate and up the stairs to the next area. Go
+    straight and turn right in the catwalk to the next set of stairs. Open the
+    gate and head down the stairs. Fire the bobotuber into the others to get the
+    last mini-shield.
+
+    After you get all the mini-shields the shield appears right at the save 
+    point.
+
+2.) At shield f.) just break the thing thats in the air with the pots and it
+    will fall, follow it down put out all the fires, and collect the shield, 
+    plus you get the weed needed for challenge # 2
+
+3.) At the save point, go through the gate and move the big rock onto the hole 
+    in the middle. Then move the box up the first litte part of the stairs in 
+    the back corner and climb on it. Use herbivicous on the plants and get the
+    next shield.
+
+4.) From where you got the last one just continue up the stairs into the next
+    area. Go to the left and pull down the drawbridge and go left. Pull down 
+    that draw bridge and follow it. Pull down the next drawbridge then go all 
+    the way back around and through the green house and pull down the next one.
+    Then go back and through the next green house and pull down the next one. 
+    Go all the way back around and across and the shield is right there.
+
+5.) After you get the thing that helps you breath underwater go back to the very
+    beginning of the level and you'll find where theres a shield in the 
+    mushrooms that you weren't able to get earlier, that theres a bobotuber 
+    there so just shoot it into them and collect the shield.
+
+6.) Back where the spell book is in the beginning of the level use the cauldron
+    to break the wall then use herbivicous to get the next shield.
+
+7.) From where you got the last mini-shield shoot the bobotuber into the mush-
+    rooms and get the next shield.
+
+8.) From the save point go in the next area and put the big boulder on the hole
+    then move the box out of the way of a path. Go through it and there will be
+    a pond with pods in the middle use herbivicous on them until you can get 
+    the last shield of the level.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                           (3.8) TRIWIZARD TASK 2
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Gold:   3 shields
+Silver: 2 shields
+Bronze: 1 shield
+
+We're now at the second of the three tasks, from the egg you found out that
+you needed to break underwater in the lake for an hour. After collecting the
+gillyweed you are now able to do this and save your friend.
+
+This task is very similar to the first one, except this time you have enemies
+that are trying to kill you as you search for your friend. You need to swim
+through as many bean rings as you can and need to jinx the enemies that are
+trying to kill you, when you get to an area where you are swimming up you need
+to jinx all the roof supports so that you can make it through and finish the
+level.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                           (3.9) TRIWIZARD TASK 3
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+The third task I think is the easiest of the three. Try to collect as many beans
+as possible but it should be no problem at all to get enough. When you begin 
+head forwards take the fourth left. Take your first path down and your last path
+left from there. Head forwards and take your frist right follow it then head up
+when you hit a corner follow it turn right and up again and then you will get a 
+scene where cedric saves you from Crum. Now you must run from vines chasing you,
+go whichever way you want and avoid things in the way. Hold down triangle to
+collect beans and watch out for branches that come out of the side. After you 
+pass this you will come to a part where you see Cedric on a wall. Two blast-
+ended screwts will appear. Make them run into the wall then jinx them in their
+back side. After you defeat them collect their beans then you'll get a scene of
+you and Cedric grabing the cup and the level will end.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                              (3.a) VOLDEMORT
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+When you get control just keep killing all the skeletons until voldemort casts
+aveda kadavra on you. Then just move that around killing all the skeletons until
+voldemort will cast a big statue at you. Just run away from it and kill all the
+skeletons now try to destroy the statue whenever its on the ground with the
+spell, after its destroyed youll see harry dragging cedrics body. Voldemort 
+will go to attack harry but he uses accio to get the cup and return back to
+hogwarts. 
+
+Congratulations on completing Harry Potter and the Goblet of Fire, now after
+the credits you can return to each level and collect and of the shields or
+anything you may not have gotten, you can do all the subquests, and obtain
+all the cards you have not gotten yet.
+
+
+                               ================
+                             / Sub-quests (4.0) \
+                             -==================-
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                           
+                           (4.1) HOGWARTS EXTERIOR
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Dragon Statues:
+
+1.) When you start the level head down the stairs to the left and stack the 
+    boxes next to the wall so you can climb up. After you get up look to the 
+    left and in the corner is the statue.
+
+2.) Go down the stairs to the left and down the second set. Break the wall to
+    your left and climb up the ledge thats there. The statue is on the left side
+    up there.
+
+3.) Go down the stairs and break all the wall to your right then go past all of
+    the flames that shoot out to where you fight the fire salemanders. When you
+    get there, head straight and in the right back corner behind the fountain 
+    is the next statue.
+
+4.) If you go by the stairs and all the way left you'll come to four rock in
+    your path, throw them out of the way so you can continue on. You'll come
+    to a place where you can go left or right, go left and continue on. Move
+    the block to the ledge so you can move up then go around either side 
+    blowing out the fire on the way around. Pull down the drawbridge then move
+    the block thats on the left to the right so you can climb up. Pull down the
+    next bridge then move the block thats up there to the place where the other
+    box was and go onto it. Now jump up to the ledge there where there was a
+    Shield was and theres a statue there thats hard to see.
+
+5.) Go down move the rocks and go to the right when you have a choice. Pull 
+    down the drawbridge and kill the erkling and then pull down the next 2
+    bridges. Then go up the stairs and up again youll see a dark detector in 
+    the middle of the area head right of it and there will be a ledge that 
+    leads down and the statue is on the ledge.
+
+Dark Detectors
+
+1.) Go down the stairs in the beginning of the level and it is on your right.
+
+2.) Go down the stairs in the beginning. Head down the next set of stairs
+    and break the wall to your right, on your left is the next dark detector.
+
+3.) Go down the stairs in the beginning down the next set and break all the 
+    walls one way. Go to your left past all the fires into the area with the 
+    fire salemanders, turn right and its in that corner to your right.
+
+4.) Go down and move the rocks out of your way, go to the left when you have 
+    the choice and move the box so you can climb up. Go past all the fires and 
+    pull down the bridge, its on your right.
+
+5.) Go the same way as last time but go right instead of left, pull down all 
+    the bridges and kill the erkling. Pull down the next 2 bridges and continue
+    up the stairs, the dark detector is right in the middle.
+
+Vanishing Card
+
+The vanishing card in this level is easy to find. When the level starts hurry
+down the stairs to your left the head over towards the boxes. To your right will
+be a path that goes down that leads straight down to a dead end with the card
+there.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                             (4.2) FORBIDDEN FOREST
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Dragon Statues:
+
+1.) Right in the beginning where you start the level, head to the left path
+    and you'll have a choice to go left, which has a bototuber there, or right.
+    Go right and it is right there.
+
+2.) Go to the place where it looks like a broken building where you need to
+    herbivicous spell and it is in the corner.
+
+3.) Where the octago is go the the left path and head all the way left when you
+    can turn and you'll find some poisonous mushroom where the dragon statue
+    is right there.
+
+4.) Go to where the dragon is in the cage and it is in the back corner behind
+    the cage.
+
+5.) Go to where the Blast-ended skrewt is and you'll see bobotuber plants, the
+    statue is right behind them.
+
+Mushrooms:
+
+1.) From the octagon go to the left side and go forward heading somewhat left,
+    theres a poisonous mushroom patch right in front of you and halfway through
+    the path to your right is the first mushroom.
+
+2.) Go to where the Skrewt is and right after you pass the poisonous mushrooms
+    is the mushroom.
+
+3.) Start heading to where the broken building is. After you pass all the fire
+    shooter things you have to cross a stump. After you cross it, it's on your
+    left.
+
+4.) Go to where the dragon cage is, after the scene go right and it should be
+    right there.
+
+5.) From the octagon head to the left side you'll find a bunch of mushrooms, the
+    last one is in there. 
+
+Vanishing Card
+
+Right where the last mushroom is you have to get past those poisonous mushrooms
+as fast as you can.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                           (4.3) PREFECTS BATHROOM
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Dragon Statues:
+
+1.) In the very beginning of the level on the opposite side of the bathtub,
+    jinx until you hit it.
+
+2.) In the checkpoint area on the left side is a cauldron, right next to it
+    is the statue.
+
+3.) From the checkpoint head down the left path and right after the puddle
+    there are two statues, right in the middle of them is the next dragon
+    statue.
+
+4.) From the checkpoint head right all the way and climb the stairs, kill
+    the erklings here then use carpe retractum to pull down the bridge and
+    continue up the stairs into the next area. Head to the left side and
+    continue down the stairs over hear and in the corner before the next set
+    of stairs is the statue.
+
+5.) From the checkpoint head to the right and past the first bud to the second
+    one. Cast herbivicous on it to get to the platform in the middle. Once
+    there take care of the enemies then head right to the next sets of buds.
+    You'll get to a new area where at the top of it there are stairs heading
+    up to another area. There will be many things that attack you up here but
+    in the bottom left hand corner of the area is the final dragon statue.
+
+Taps:
+1.) From the checkpoint go to the right and across the bridge, in the water
+    you'll see a lillie pad, cast herbivicous on it to cross it and end up
+    on a platform in the middle. Now there will be two more you can make
+    lillies do it to the one on the left that as near the stairs. About half
+    way up the stairs on your right side will be a big tank and right next to 
+    you you'll see the tap that you need jinx.
+
+2.) From the checkpoint head right, on the way down up against the wall is
+    the next tap.
+
+3.) Head right and follow the path down and go up the stairs, kill the erklings
+    the use carpe retractum to pull down the bridge, right after you cross it
+    on the right side is the next tap.
+
+4.) Head down the right side again and you'll see the buds, head two the second
+    one and then cast herbivicous on it. Get to the middle platform then keep
+    casting it on the ones to the right side and continue to the next platform.
+    There will be two big dragon statues on the right and if you look in the
+    middle of them you will find the next tap.
+
+5.) From the checkpoint head to the left side this time and head to the bridge,
+    use carpe retractum to pull it down then on the top of your screen alittle
+    farther ahead is a big generator thing. If you stand next to the couldron
+    you can jinx it from here.
+
+Vanishing Card:
+
+From the save point head down the left path and follow it, pull down the bridge
+and you'll come to an area with two salemanders, ignore them and head on to
+the next bridge. Pull it down before the salemanders attack you then head up
+onto the ledge and the cards by the statues there.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                            (4.4) HERBOLOGY
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Dragon Statues:
+
+1.) Right after you go down the stairs in the beginning of the level.
+
+2.) Underneath the stairs in the checkpoint area.
+
+3.) After you fight the blast-ended screwt and go up the stairs you come to a 
+    new area, go right and pull down the bridge then go back around and through
+    the place then go up the stairs onto a rooftop area and its in the corner of
+    this place.
+
+4.) Where the vanishing card is by the plant that explodes. Underneath the cat
+    walk that leads to the save point its all the way as far as you can go
+    underneath it.
+
+5.) Before you go into the greenhouse with the gillyweed its behind the 
+    mushrooms there.
+
+Shovels:
+
+1.) At the very beggining of the level in the flower bed to the right.
+
+2.) Also at the beggining of the level where you see a bobotuber that is not
+    out and a mushroom patch with a shield in it. It's behind the bobotuber in
+    the like dirt sort of area in the top right corner.
+
+3.) On the bottom of the screen in the checkpoint area.
+
+4.) Where you find the vanishing card is in one of the flower beds at the bottom
+    of your screen.
+
+5.) From the checkpoint go past the gate to the area with the hole. Go up the
+    stairs into the catwalk area. Then go straight and right through the place
+    and up the next stairs. Open the gate on the roof then go down the stairs.
+    At the very bottom its to your left a little bit ahead of you.
+
+Vanishing Card
+
+From the checkpoint run up the stairs and into the greenhouse. Make your way
+back to the pond casting herbivicous on the plants as you go. When you get there
+make your way to the place where there is an exploding plant and it is in that
+area. This card vanishes really quickly so you need to hurry.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                      (4.5) MOODY'S CHALLENGES
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Gargoyals
+
+1-5.) They're all on the outside of the arena just jinx them
+
+Vanishing Card
+
+On the third challenge it is right behind the wall right in front of you,
+don't try to blow it up just run around it and you will collect it even
+though you probobly wont be able to tell you did.
+
+
+
+
+                           ======================
+                         / Collectors Cards (5.0) \
+                         -========================-
+
+
+Collectors Cards are bought by collecting beans that you obtain while playin
+each level. Every card has some special effect that will help your character
+and can be placed on them at the beggining of a level.
+
+To unlock the last set of cards you will need to master all of the spells
+in the game, after you do this you will also unlock a movie in the area
+where you can look at your cards.
+
+
+
+                  =-------------------------------=                
+                  |             Harry             |
+                  =-------------------------------=
+
+
+Set 1:
+   Stanima              - increases stanima by 10
+   Stanima              - increases stanima by 10
+   Stanima              - increases stanima by 10
+   Jinx                 - increases jinxes by 10
+   Jinx                 - increases jinxes by 10
+   Accio                - increases accio by 10
+   Gold Magicus Extremos Start Booster
+Set 2:
+   Stanima              - increases stanima by 20
+   Stanima              - increases stanima by 20
+   Jinx                 - increases jinxes by 10                
+   Jinx                 - increases jinxes by 20
+   Accio                - increases accio by 10
+   Double Jinx          - cast two spells at same time
+   Silver Stanima Booster
+Set 3:
+   Stanima              - increases stanima by 20
+   Jinx                 - increases jinxes by 20
+   Accio                - increases accio by 10
+   Jinx Casade          - Jinx break up into a number of smaller jinxes
+   Magicus Extremos     - increases duration by 10
+   Friendship           - when standing next to friend replenish health
+   Gold Jinx Booster
+Set 4:
+   Jinx                 - increases jinxes by 20
+   Accio                - increases accio by 20
+   Triple Jinx          - cast three spells at same time
+   Magicus Extremos     - increases duration by 10
+   Transfigure Stanima  - all cards are stanima
+   Magicus Extremos     - increases duration by 10
+   Bertie Bott's Bean Pouch Gold Booster
+Set 5:
+   Accio                - increases accio by 20
+   Ricochet Jinx        - bounce of multiple targets
+   Magicus Extremos     - increase duration by 10
+   Chinese Fireball Dragon-Hide- Prevents prolonged fire damage
+   Accio                - increase accio by 20
+   Magicus Extremos     - increse duration by 20
+   Silver Accio Booster
+
+Set 6:
+
+
+
+                  =-------------------------------=                
+                  |            Hermoine           |
+                  =-------------------------------=
+
+
+Set 1:
+   Magicus Extremos     - increases duration by 10
+   Magicus Extremos     - increases duration by 10
+   Magicus Extremos     - increases duration by 10
+   Accio                - increases accio by 10
+   Accio                - increases accio by 10
+   Friendship           - when standing next to friend replenish health
+   Gold Magicus Extremos Start Booster
+Set 2:
+   Magicus Extremos     - increases duration by 20
+   Magicus Extremos     - increases duration by 20
+   Accio                - increases accio by 10
+   Accio                - increases accio by 20
+   Herbology            - Control of Herbivicus is increased
+   Stanima              - increased stanima by 10
+   Gold Magicus Extremos Booster
+Set 3:
+   Magicus Extremos     - increases duration by 20
+   Accio                - increases accio by 20
+   Transfigure Stanima  - all cards are stanima
+   Stanima              - increases stanima by 10
+   Jinx                 - increases jinxes by 10
+   Double Jinx          - uses two jinxes
+   Gold Accio Booster
+Set 4:
+   Accio                - increases accio by 20
+   Transfigure Jinx     - changes all cards to jinxes
+   Stanima              - increases stanima by 10
+   Jinx                 - increases jinxes by 10
+   Ricochet Jinx        - bounce of multiple targets
+   Jinx                 - increases jinxes by 10
+Set 5:
+   Perfect Cast         - controls charms
+   Stanima              - increases stanima by 20
+   Jinx                 - increases jinxes by 20
+   Triple Jinx          - three jinxes at same time
+   Transfigure Magicus Extremos-all cards magicus extremos
+   Jinx                 - increases jinxes by 20
+   Bertie Bott's Bean Pouch Gold Booster
+
+Set 6:
+
+
+
+                  =-------------------------------=                
+                  |              Ron              |
+                  =-------------------------------=
+
+
+Set 1:
+   Jinx                 - increases jinxes by 10
+   Jinx                 - increases jinxes by 10
+   Jinx                 - increases jinxes by 10
+   Friendship           - health rises when next to character
+   Transfigure Jinx     - all cards jinxes
+   Double Jinx          - cast two spells at once
+   Bertie Bott's Bean Pouch Gold Booster
+Set 2:
+   Jinx                 - increases jinxes by 20
+   Jinx                 - increases jinxes by 20
+   Transfigure Stanima  - all cards stanima 
+   Blue Bertie Bott's Beans -beans increase magicus extremos
+   Ricochet Jinx        - spell hits more than one enemy
+   Stanima              - increases stanima by 10
+Set 3:
+   Jinx                 - increases jinxes by 20
+   Transfigure Magicus Extremos-all cards magicus Extremos
+   Triple Jinx          - casts three spells at once
+   Stanima              - increases stanima by 10
+   Magicus Extremos     - increases magicus extremos by 10
+   Accio                - increases accio by 10
+   Gold Jinx Booster
+Set 4:
+   Red Bertie Bott's Beans- beans increase stanima
+   Jinx Cascade         - jinxes break up into many jinxes
+   Stanima              - increases stanima by 10
+   Magicus Extremos     - increases magicus extremos by 10
+   Accio                - increases accio by 10
+   Magicus Extremos     - increases magicus extremos by 10
+   Silver Stanima Booster
+Set 5:
+   Jinx and Magicus Extremos-jinx and magicus extremos increased
+   Stanima              - increases stanima by 20
+   Magicus Extremos     - increases magicus extremos by 20
+   Accio                - increases accio by 10
+   Jinx and Magicus Extremos- both are raised
+   Magicus Extremos     - increases magicus extremos by 20
+   Silver Magicus Extremos Booster
+
+Set 6:
+
+
+
+                  =-------------------------------=                
+                  |          Quest Cards          |
+                  =-------------------------------=
+
+
+Set 1: (Vanishing Cards)
+   Hogwarts Exterior
+   Herbology
+   Forbidden Forest
+   Moody's Challenges
+   Prefects' Bathroom
+Set 2: (Unique Item for Level)
+   Hogwarts Exterior
+   Herbology
+   Forbidden Forest
+   Moody's Challenges
+   Prefects' Bathroom
+Set 3: (Dragon Statues)
+   Hogwarts Exterio     - Increases Harry's Resistance to collision in Task 1
+   Herbology            - Increases Harry's Resistance to collision in Task 2
+   Forbidden Forest     - Doubles Harry's ability to summon beans in Task 1
+   Moody's Challenges   - Increases Harry's jinx power and resistance to damage
+   Prefects' Bathroom   - Doubles harry's ability to summon beans in Task 2
+
+
+                  =-------------------------------=                
+                  |         Creature Cards        |
+                  =-------------------------------=
+
+Dugbog- 
+   Dugbog Jinx          - gives player an advantage against Dugbogs
+   Dugbog Orchideous    - gives player an advantage against Dugbogs
+   Dugbog Avifors       - gives player an advantage against Dugbogs
+   Dugbog Orbis         - gives player an advantage against Dugbogs
+   Dugbog               - gives player an advantage against Dugbogs
+Salamander-
+   Salamander Jinx      - gives player an advantage against Salamanders
+   Salamander Lapifors  - gives player an advantage against Salamanders
+   Salamander Inflatus  - gives player an advantage against Salamanders
+   Salamander Ebublio   - gives player an advantage against Salamanders
+   Salamander           - gives player an advantage against Salamanders
+Erkling- 
+   Erkling Jinx         - gives player an advantage against Erklings
+   Erkling Pullus       - gives player an advantage against Erklings
+   Erkling Orbis        - gives player an advantage against Erklings
+   Erkling Melofors     - gives player an advantage against Erklings
+   Erkling              - gives player an advantage against Erklings
+Skrewt- (B-E= Blast-ended)
+   B-E Skrewt Jinx      - gives player an advantage against Skrewts
+   B-E Skrewt Avifors   - gives player an advantage against Skrewts
+   B-E Skrewt Ducklifors- gives player an advantage against Skrewts
+   B-E Skrewt Inflatus  - gives player an advantage against Skrewts
+   B-E Skrewt           - gives player an advantage against Skrewts
+Vampyr Mosp
+   Vampyr Mosp Jinx       - gives player an advantage against vampyr mosps
+   Vampyr Mosp Vermiculus - gives player an advantage against vampyr mosps
+   Vampyr Mosp Orchideous - gives player an advantage against vampyr mosps
+   Vampyr Mosp Inflatus   - gives player an advantage against vampyr mosps
+   Vampyr Mosp            - gives player an advantage against vampyr mosps
+
+
+
+                      ================================
+                    / Frequently Asked Questions (6.0) \
+                    -==================================-
+
+
+Where do you get the herbivicous spell?
+When you play the Herbology level it is in the spell book you find in the
+begging of the level on the left side of the area.
+
+How do I beat triwizard task 1 and 2?
+I wrote a walkthrough for a reason.
+
+Can you play co-op?
+Yes you can with up to two of your friends if you have a multi-tap.
+
+Which spells are in the game?
+If you look in the spells section you can find this out.
+
+How long is the game?
+Theres 10 levels and some levels have more than one part.
+
+
+
+                         ========================
+                       / Credits and Thanks (7.0) \
+                       -==========================-
+
+Thanks to you who are reading this FAQ I hope it helped you
+
+CJayC for hosting this guide
+
+Everyone that has sent it contributions
+
+
+Copyright 2005 Spitfox
