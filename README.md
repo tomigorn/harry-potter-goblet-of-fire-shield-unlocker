@@ -10,7 +10,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)](#requirements)
 [![Release](https://img.shields.io/github/v/release/tomigorn/harry-potter-goblet-of-fire-shield-unlocker?label=download&color=green)](../../releases/latest)
-[![License](https://img.shields.io/github/license/tomigorn/harry-potter-goblet-of-fire-shield-unlocker?color=yellow)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-yellow)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-3776ab?logo=python&logoColor=white)](https://www.python.org/downloads/)
 
 No hex editing. No coding. No replaying levels. Just download, click, and play.
@@ -23,7 +23,7 @@ No hex editing. No coding. No replaying levels. Just download, click, and play.
 
 <br>
 
-This is a free, open-source Windows GUI tool that edits the save file for **Harry Potter and the Goblet of Fire** (2005, EA Games, PC) — the fourth game in the Harry Potter PC series. The game locks later levels behind Triwizard Shield collectibles scattered across 10 levels. This tool lets you max them all out in one click so you can skip the grind and play the content you want.
+This is a free, community-driven Windows GUI tool that edits the save file for **Harry Potter and the Goblet of Fire** (2005, EA Games, PC) — the fourth game in the Harry Potter PC series. The game locks later levels behind Triwizard Shield collectibles scattered across 10 levels. This tool lets you max them all out in one click so you can skip the grind and play the content you want.
 
 > **How it works in 10 seconds:** Download the `.exe` → run it → click <kbd>MAX ALL SHIELDS</kbd> → click <kbd>SAVE</kbd> → launch the game. Done.
 
@@ -236,6 +236,12 @@ The editor reads the entire file into memory, modifies the relevant bytes, and w
 The save format was reverse-engineered from scratch for this project — no existing documentation or tools for this game's save format were found online.
 
 This project is not affiliated with or endorsed by Electronic Arts, Warner Bros., or the Harry Potter franchise.
+
+### License
+
+This project is licensed under [CC BY-NC-SA 4.0](LICENSE) — free to use, share, and modify for non-commercial purposes. See [LICENSE](LICENSE) for details.
+
+The file `gamefaqs_walkthrough_archive.txt` is not covered by this license — it is copyrighted by its original author (spitfox) and is included here only as a reference archive.
 
 ### Credits
 

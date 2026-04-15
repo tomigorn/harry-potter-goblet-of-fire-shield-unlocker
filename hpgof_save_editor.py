@@ -4,6 +4,9 @@
 ║  A visual save editor for the 2005 EA PC game               ║
 ║  Edit Triwizard Shields, mini-shields, and game flags        ║
 ╚══════════════════════════════════════════════════════════════╝
+
+Copyright (c) 2026 tomigorn
+Licensed under CC BY-NC-SA 4.0 — https://creativecommons.org/licenses/by-nc-sa/4.0/
 """
 
 import struct
