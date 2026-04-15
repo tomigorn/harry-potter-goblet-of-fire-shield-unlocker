@@ -17,6 +17,10 @@ No hex editing. No coding. No replaying levels. Just download, click, and play.
 
 <br>
 
+<img src="screenshots/editor.png" alt="HPGOF Save Editor screenshot" width="700">
+
+<br>
+
 [**Download**](../../releases/latest) · [Quick Start](#-quick-start) · [Features](#-features) · [FAQ](#-faq)
 
 </div>
